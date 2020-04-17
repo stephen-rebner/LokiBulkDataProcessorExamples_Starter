@@ -8,7 +8,7 @@ The following files are included in this solution:
 - Post.cs and Blog.cs - domain model objects
 - BlogDbContext.cs - Entity Framework database context file
 - Startup.cs - Adds Loki Bulk Data Processor and EF to the project
-- appsettings.json - contains the database connection string and currently points at local host
+- appsettings.json - contains the database connection string and currently points at localhost
 - BulkProcessorController.cs - To be completed
 
 Before starting the tutorial, open up the Nuget Package Console window in Visual Studio and run the following command:
