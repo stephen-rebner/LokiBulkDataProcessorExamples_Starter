@@ -7,7 +7,7 @@ The following files are included in this solution:
 
 - Post.cs and Blog.cs - domain model objects
 - BlogDbContext.cs - Entity Framework database context file
-- Startup.cs - Adds Loki Bulk Data Processor and EF to the project)
+- Startup.cs - Adds Loki Bulk Data Processor and EF to the project
 - appsettings.json - contains the database connection string and currently points at local host
 - BulkProcessorController.cs - To be completed
 
