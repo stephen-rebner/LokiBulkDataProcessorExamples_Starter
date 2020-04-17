@@ -10,6 +10,7 @@ The following files are included in this solution:
 - Startup.cs - Adds Loki Bulk Data Processor and EF to the project
 - appsettings.json - contains the database connection string and currently points at localhost
 - BulkProcessorController.cs - To be completed as part of the tutorial
+- Loki.Tests.postman_collection.json - an import file for Postman, containing the HTTP requests used in the tutorial.
 
 Before starting the tutorial, open up the Nuget Package Console window in Visual Studio and run the following command:
 
